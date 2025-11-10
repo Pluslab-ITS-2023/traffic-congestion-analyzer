@@ -1,6 +1,6 @@
-# traffic_congestion_analyzer
+# Traffic Congestion Analyzer
 
-A new Flutter project.
+交通渋滞を解析するためのモバイルアプリケーション．
 
 ## Getting Started
 
